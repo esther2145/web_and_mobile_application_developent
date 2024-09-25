@@ -2,7 +2,6 @@
 let queenName = "Anitah";
 let completedChallenges = 0;
 let increment = completedChallenges + 1;
-
 function celebrateWin() {
     console.log("You did it Queen")
 }

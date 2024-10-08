@@ -1,0 +1,25 @@
+/* table,td,th,tr,thead{
+    border: 1px solid;
+    border-radius: 60%;
+    border-collapse: collapse;
+    background-color: aquamarine;
+} */
+table {
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  th, td {
+    border: 1px solid #82b1eb;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f0f0f0;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  } 
+

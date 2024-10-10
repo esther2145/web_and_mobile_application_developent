@@ -17,3 +17,4 @@ function calculateProfit(selling_price,cost_price,units_sold){
     console.log("the number of units of maize flour sold were",units_sold,"and the profit gotten was",profit,'shs')
 }
 calculateProfit(6000,4800,2);
+

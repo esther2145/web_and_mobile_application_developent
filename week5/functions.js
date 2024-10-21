@@ -10,6 +10,7 @@ var sum_two = num_three + num_four;
 console.log('sum two: ',sum_two)
 
 //functions without parameters
+//using a void function
 function summation(){
     var num_five = 40;
     var num_six = 10;
